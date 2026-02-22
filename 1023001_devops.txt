@@ -1,7 +1,7 @@
-COMP 2156 – DevOps for System Administration is a course focused on modern software deployment and automation practices.
+The course COMP 2156, DevOps for System Administration, focuses on contemporary software deployment and automation techniques.
 
 
-DevOps is a combination of Development and Operations. It promotes collaboration between software developers and IT operations teams to improve software delivery speed and reliability.
+Development and Operations are combined to form DevOps. It encourages cooperation between IT operations teams and software developers to increase the dependability and speed of software delivery.
 
 Students in this course learn how to collaborate using GitHub and manage versions using Git. Crucial abilities acquired during the course include branching, merging, pull requests, and commit management.
 
@@ -12,3 +12,4 @@ In order to automate operations, students have practical experience using GitHub
 Concepts related to Linux system administration, such as file management, permissions, and command-line operations, are also discussed.
 
 COMP 2156's primary objective is to equip students with practical skills in automation, teamwork, and infrastructure management in order to prepare them for DevOps careers in the real world.
+
