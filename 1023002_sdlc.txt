@@ -1,0 +1,10 @@
+
+Traditional SDLC phases include requirement gathering, design, development, testing, deployment, and maintenance.  
+
+DevOps integrates development and operations teams into SDLC to improve efficiency and collaboration.  
+
+Automation in testing and deployment reduces human errors and increases reliability.  
+
+Continuous Integration allows developers to merge code frequently and run automated tests.  
+
+Continuous Deployment ensures code updates are released safely and quickly.  
