@@ -8,3 +8,7 @@ Automation in testing and deployment reduces human errors and increases reliabil
 Continuous Integration allows developers to merge code frequently and run automated tests.  
 
 Continuous Deployment ensures code updates are released safely and quickly.  
+
+Monitoring and feedback are key elements of DevOps, helping teams improve software performance over time.  
+
+Learning DevOps is essential for modern SDLC to deliver quality software faster.
