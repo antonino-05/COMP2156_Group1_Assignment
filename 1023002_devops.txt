@@ -2,8 +2,15 @@ COMP 2156 is a DevOps for System Administration course that teaches essential sk
 
 DevOps combines Development and Operations to improve collaboration between teams and streamline software delivery.  
 
+
+
 Students learn Git and GitHub for version control, including branching, committing, and pull requests.  
 
 Continuous Integration (CI) and Continuous Deployment (CD) practices are introduced to automate testing and deployments.  
 
 The course covers GitHub Actions and other free CI/CD tools to practice automation workflows.  
+The course covers GitHub Actions and other free CI/CD tools to practice automation workflows.  
+
+Linux system administration basics, including file operations, permissions, and command-line tasks, are also taught.  
+
+By completing COMP 2156, students gain hands-on experience and the ability to implement DevOps processes in real-world projects.
