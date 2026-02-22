@@ -3,3 +3,9 @@ COMP 2156 – DevOps for System Administration focuses on teaching students prac
 DevOps combines development and IT operations to enable faster software delivery and higher quality.
 
 The course covers Git and GitHub for version control, including branch management, commits, and pull requests. 
+
+Students also learn about Continuous Integration (CI) and Continuous Deployment (CD) using tools such as GitHub Actions.  
+
+Linux fundamentals such as file management, command-line operations, and permissions are also included.  
+
+By the end of COMP 2156, students will have experience automating workflows and managing collaborative development projects.
