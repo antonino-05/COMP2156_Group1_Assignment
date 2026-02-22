@@ -1,2 +1,9 @@
 George Brown College, located in Toronto, Ontario, is a leading Canadian public college established in 1967.  
 Named after George Brown, a notable politician and journalist, the college offers programs designed for career readiness.
+
+Programs include diplomas, degrees, and postgraduate certificates in fields like business, technology, healthcare, hospitality, and community services.  
+
+The college operates three main campuses:
+- St. James Campus
+- Casa Loma Campus
+- Waterfront Campus
